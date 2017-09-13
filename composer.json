@@ -1,0 +1,7 @@
+{
+  "require": {
+    "phpmailer/phpmailer": "^5.2",
+    "league/oauth2-client": "^2.2",
+    "curl/curl": "^1.7"
+  }
+}

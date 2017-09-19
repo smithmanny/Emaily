@@ -32,6 +32,10 @@ class SurveyList extends Component {
   render() {
     return (
       <div>
+        <div style={{ textAlign: 'center'}}>
+          <h2>When adding credits please use credit card #</h2>
+          <h3>4242 4242 4242 4242</h3>
+        </div>
         {this.renderSurveys()}
       </div>
     );

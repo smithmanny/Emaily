@@ -1,4 +1,7 @@
 # Emaily App  
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/smithmanny/Emaily.svg)](https://greenkeeper.io/)
+
 This project was built part of a ReactJS + Redux course by [Stephen Grider](https://www.udemy.com/node-with-react-fullstack-web-development/learn/v4/overview)  
 
 ## More features to come
